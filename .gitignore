@@ -1,0 +1,9 @@
+node_modules/
+.env
+sniper.log
+sniper.jsonl
+sniper_state.json
+*.log
+*.tmp
+.DS_Store
+dryrun.txt
